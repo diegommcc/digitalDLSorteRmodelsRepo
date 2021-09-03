@@ -1,0 +1,8 @@
+Package: digitalDLSorteRmodels
+Version: 0.1.0
+Depends: R (>= 4.0.0)
+Imports: methods
+Suggests: testthat (>= 3.0.0)
+License: GPL-3
+MD5sum: 87185e648abac3a50b0540e7fe8fbd88
+NeedsCompilation: no
